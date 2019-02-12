@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iepeulu.balkan-archaeology.org/sitemap.xml
